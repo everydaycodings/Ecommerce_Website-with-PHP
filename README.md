@@ -16,8 +16,9 @@ and path of the Database with its Password and Database_name.
 ![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/product_details.png)
 ![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/checkout.png)
 
-**Contact**<br>
-
+**Contact:**<br>
+[Instagram](https://www.instagram.com/everydaycodings)<br>
+[Telegram](https://t.me/everydaycodings)
 
 [![HitCount](http://hits.dwyl.com/everydaycodings/Ecommerce_Website-with-PHP.svg)](http://hits.dwyl.com/everydaycodings/Ecommerce_Website-with-PHP)
 
