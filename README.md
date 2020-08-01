@@ -14,5 +14,10 @@ and path of the Database with its Password and Database_name.
 *4)* I have also included a sample Database You can use It.
 
 **Screenshots:**<br>
-<a href="https://www.buymeacoffee.com/everydaycodings" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/home.png)
+![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/login.png)
+![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/product.png)
+![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/product_details.png)
+![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/checkout.png)
+
 
