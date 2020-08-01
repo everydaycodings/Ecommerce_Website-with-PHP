@@ -20,4 +20,10 @@ and path of the Database with its Password and Database_name.
 ![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/product_details.png)
 ![](https://github.com/everydaycodings/Ecommerce_Website-with-PHP/blob/master/screenshot/checkout.png)
 
+**Contact**<br>
+![Instagram](https://www.instagram.com/everydaycodings/)<br>
+![Telegram](https://t.me/everydaycodings)<br><br>
+[![HitCount](http://hits.dwyl.com/everydaycodings/Ecommerce_Website-with-PHP.svg)](http://hits.dwyl.com/everydaycodings/Ecommerce_Website-with-PHP)
 
+
+<a href="https://www.buymeacoffee.com/everydaycodings" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
