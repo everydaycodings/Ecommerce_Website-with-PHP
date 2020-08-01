@@ -1,9 +1,5 @@
 # Ecommerce_Website-with-PHP
 A fully functional Ecommerce Website with php and Sql 
-# Text Editor With Python
-
-**Requirements Installation**<br>
-$ sudo apt-get install python3-tk
 
 **Required Changes**<br>
 *1)* It was a large file so i have to compress the file. You first extract the file.<br>
