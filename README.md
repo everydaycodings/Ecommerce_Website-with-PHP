@@ -4,8 +4,8 @@ A fully functional Ecommerce Website with php and Sql
 **Required Changes**<br>
 *1)* It was a large file so i have to compress the file. You first extract the file.<br>
 *2)* In the file named "connection.inc.php" you have to give your own 
-information such as path of the server where file would we uploaded<br>
-and path of the Database with its Password and Database_name.
+information such as path of the server where file would we uploaded
+and path of the Database with its Password and Database_name.<br>
 *3)* Same think that you did in point number you have to repeat it with file "admin/connection.inc.php"<br>
 *4)* I have also included a sample Database You can use It.
 
